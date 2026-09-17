@@ -102,7 +102,10 @@ The SQL database is then connected to Power BI to create an interactive business
 Dashboard components include:
 - KPI Cards
 - Visualizations 
-- Interactive features 
+- Interactive features
+
+<img width="907" height="543" alt="image" src="https://github.com/user-attachments/assets/aca21a7e-25a3-4ed2-9f81-a014ee266f8d" />
+
 
 </details>
 
